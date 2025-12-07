@@ -1,8 +1,7 @@
 streamlit
-pillow
-numpy
 torch
-ultralytics
+torchvision
+numpy
+pillow
+segment-anything
 streamlit-image-coordinates
-opencv-python-headless
-
