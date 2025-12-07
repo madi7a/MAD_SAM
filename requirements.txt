@@ -4,4 +4,3 @@ numpy
 torch
 ultralytics
 streamlit-image-coordinates
-opencv-python-headless
